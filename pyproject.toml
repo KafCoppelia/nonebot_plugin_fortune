@@ -17,7 +17,7 @@ python = "^3.9"
 nonebot2 = "^2.0.0rc4"
 nonebot-adapter-onebot = "^2.2.0"
 nonebot-plugin-apscheduler = "^0.2.0"
-pillow = "^9.0.0"
+pillow = "^10.0.0"
 httpx = "^0.23.0"
 aiofiles = "^0.8.0"
 
